@@ -1,0 +1,40 @@
+.header1{
+	font-family: Arial,sans-serif;
+	font-size: 13px;
+	color: #FF1493;
+	background-color: black;
+	height: 70px;
+	
+}
+
+.header2{
+	color: white;
+	background-color: #FF1493;
+}
+
+.main{
+	display: inline;
+}
+
+.input{
+
+}
+	
+
+
+
+.floated_img {
+	float: left;
+	border: 1px solid olive;
+}
+
+
+.floated_img img{
+    float: left;
+   	height:300px;
+    width:300px;
+    border: 1px solid gray;
+    padding: 1px;
+    background-color: white;
+
+}
