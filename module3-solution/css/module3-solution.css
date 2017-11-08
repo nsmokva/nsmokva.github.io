@@ -1,0 +1,48 @@
+
+/* HEADER--> */
+#header-nav {
+  background-color: #f6b319;
+  width: 100%;
+  margin: 0;
+}
+/* END OF HEADER--> */
+
+/* MAIN CONTENT--> */
+#page-heading {
+  padding-top: 100px;
+  text-align: center;
+}
+
+#main-content {
+  height: 1500px;
+}
+
+.nina{
+	background-color: 	#F4A460;
+	height: 100%;
+}
+
+.no-margin {
+	margin: 0;
+}
+
+.button-margin {
+	margin-top: 20px;
+}
+
+ul{
+	margin-top: 0px !important;
+	margin-bottom: 0px !important;
+
+}
+
+li{
+	background-color: #8FBC8F;
+}
+
+h3{
+	text-align: center;
+}
+
+
+/* END OF MAIN CONTENT--> */
